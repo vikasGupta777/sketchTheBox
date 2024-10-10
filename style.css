@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    height:15cm;
+    width:15cm;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    margin:40px auto;
+
+}
